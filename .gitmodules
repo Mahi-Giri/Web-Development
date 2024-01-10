@@ -7,3 +7,6 @@
 [submodule "JavaScript-Project"]
 	path = JavaScript-Project
 	url = https://github.com/Mahi-Giri/JavaScript-Project.git
+[submodule "CSS-Project"]
+	path = CSS-Project
+	url = https://github.com/Mahi-Giri/CSS-Project.git
