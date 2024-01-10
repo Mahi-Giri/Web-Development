@@ -1,0 +1,9 @@
+[submodule "JavaScript"]
+	path = JavaScript
+	url = https://github.com/Mahi-Giri/JavaScript.git
+[submodule "Projects"]
+	path = Projects
+	url = https://github.com/Mahi-Giri/Projects.git
+[submodule "JavaScript-Project"]
+	path = JavaScript-Project
+	url = https://github.com/Mahi-Giri/JavaScript-Project.git
