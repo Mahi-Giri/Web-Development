@@ -67,3 +67,6 @@ if [ $VAR != "0" ]; then
     echo "ERRORLEVEL:" $VAR
     exit $VAR
 fi
+
+# git submodule foreach <git commands>
+# after pulling run .sh commands
